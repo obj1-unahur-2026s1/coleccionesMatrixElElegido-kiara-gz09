@@ -1,4 +1,4 @@
-//Pasajeros
+//PASAJEROS
 
 object neo {
     var energia = 100
